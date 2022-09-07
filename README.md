@@ -24,7 +24,7 @@
   <img src="https://matheuspivato.com/icons/lualogo.png">
   <img src="https://matheuspivato.com/icons/wordpresslogo.png">
   
-  ##
+  ## links para contato
   
 <div> 
   <a href="mailto:contato@matheuspivato.com" target="_blank"><img src="https://matheuspivato.com/icons/emaillogo.png" target="_blank"></a>
