@@ -27,10 +27,10 @@
   ## links para contato
   
 <div> 
-  <a href="mailto:contato@matheuspivato.com" target="_blank"><img src="https://matheuspivato.com/icons/emaillogo.png" target="_blank"></a>
-  <a href="https://br.linkedin.com/in/matheus-pivato-b11724233?trk=people-guest_people_search-card" target="_blank"><img src="https://matheuspivato.com/icons/linkedinlogo.png" target="_blank"></a>
-  <a href="https://codepen.io/MTSPivato" target="_blank"><img src="https://matheuspivato.com/icons/codepenlogo.png" target="_blank"></a>
-  <a href="https://matheuspivato.com" target="_blank"><img src="https://matheuspivato.com/icons/sitelogo.png" target="_blank"></a>
+  <a href="mailto:contato@matheuspivato.com" target="_blank"><img src="https://matheuspivato.com/icons/LOGOEMAIL.png" target="_blank"></a>
+  <a href="https://br.linkedin.com/in/matheus-pivato-b11724233?trk=people-guest_people_search-card" target="_blank"><img src="https://matheuspivato.com/icons/LOGOLINKEDIN.png" target="_blank"></a>
+  <a href="https://codepen.io/MTSPivato" target="_blank"><img src="https://matheuspivato.com/icons/LOGOCODEPEN.png" target="_blank"></a>
+  <a href="https://matheuspivato.com" target="_blank"><img src="https://matheuspivato.com/icons/LOGOSITE.png" target="_blank"></a>
  
   ![Snake animation](https://github.com/mtspivato/mtspivato/blob/output/github-contribution-grid-snake.svg)
  
