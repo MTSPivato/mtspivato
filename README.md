@@ -7,22 +7,22 @@
 
 ## Algumas tecnologias que já trabalhei
 
-  <img src="https://matheuspivato.com/icons/htmllogo.png">
-  <img src="https://matheuspivato.com/icons/csslogo.png">
-  <img src="https://matheuspivato.com/icons/jslogo.png">
-  <img src="https://matheuspivato.com/icons/phplogo.png">
-  <img src="https://matheuspivato.com/icons/javalogo.png">
-  <img src="https://matheuspivato.com/icons/nodelogo.png">
-  <img src="https://matheuspivato.com/icons/reactlogo.png">
-  <img src="https://matheuspivato.com/icons/pythonlogo.png">
-  <img src="https://matheuspivato.com/icons/clogo.png">
-  <img src="https://matheuspivato.com/icons/c++logo.png">
-  <img src="https://matheuspivato.com/icons/c%23logo.png">
-  <img src="https://matheuspivato.com/icons/kotlinlogo.png">
-  <img src="https://matheuspivato.com/icons/mysqllogo.png">
-  <img src="https://matheuspivato.com/icons/mongodblogo.png">
-  <img src="https://matheuspivato.com/icons/lualogo.png">
-  <img src="https://matheuspivato.com/icons/wordpresslogo.png">
+  <img src="https://matheuspivato.com/assets/img/icons/htmllogo.png">
+  <img src="https://matheuspivato.com/assets/img/icons/csslogo.png">
+  <img src="https://matheuspivato.com/assets/img/icons/jslogo.png">
+  <img src="https://matheuspivato.com/assets/img/icons/phplogo.png">
+  <img src="https://matheuspivato.com/assets/img/icons/javalogo.png">
+  <img src="https://matheuspivato.com/assets/img/icons/nodelogo.png">
+  <img src="https://matheuspivato.com/assets/img/icons/reactlogo.png">
+  <img src="https://matheuspivato.com/assets/img/icons/pythonlogo.png">
+  <img src="https://matheuspivato.com/assets/img/icons/clogo.png">
+  <img src="https://matheuspivato.com/assets/img/icons/c++logo.png">
+  <img src="https://matheuspivato.com/assets/img/icons/c%23logo.png">
+  <img src="https://matheuspivato.com/assets/img/icons/kotlinlogo.png">
+  <img src="https://matheuspivato.com/assets/img/icons/mysqllogo.png">
+  <img src="https://matheuspivato.com/assets/img/icons/mongodblogo.png">
+  <img src="https://matheuspivato.com/assets/img/icons/lualogo.png">
+  <img src="https://matheuspivato.com/assets/img/icons/wordpresslogo.png">
   
   ## links para contato
   
