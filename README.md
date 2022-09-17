@@ -7,6 +7,7 @@
 
 ## Algumas tecnologias que já trabalhei
 
+<div align="center">
   <img src="https://matheuspivato.com/assets/img/icons/htmllogo.png">
   <img src="https://matheuspivato.com/assets/img/icons/csslogo.png">
   <img src="https://matheuspivato.com/assets/img/icons/jslogo.png">
@@ -23,10 +24,11 @@
   <img src="https://matheuspivato.com/assets/img/icons/mongodblogo.png">
   <img src="https://matheuspivato.com/assets/img/icons/lualogo.png">
   <img src="https://matheuspivato.com/assets/img/icons/wordpresslogo.png">
+ </div>
   
   ## links para contato
   
-<div> 
+<div align="center">
   <a href="mailto:contato@matheuspivato.com" target="_blank"><img src="https://matheuspivato.com/icons/LOGOEMAIL.png" target="_blank"></a>
   <a href="https://br.linkedin.com/in/matheus-pivato-b11724233?trk=people-guest_people_search-card" target="_blank"><img src="https://matheuspivato.com/icons/LOGOLINKEDIN.png" target="_blank"></a>
   <a href="https://codepen.io/MTSPivato" target="_blank"><img src="https://matheuspivato.com/icons/LOGOCODEPEN.png" target="_blank"></a>
