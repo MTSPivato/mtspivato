@@ -33,10 +33,10 @@
   ## links para contato
   
 <div align="center">
-  <a href="mailto:contato@matheuspivato.com" target="_blank"><img src="https://img.shields.io/badge/-Email-141321" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/matheuspivato/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-141321" target="_blank"></a>
-  <a href="https://codepen.io/MTSPivato" target="_blank"><img src="https://img.shields.io/badge/-Codepen-141321" target="_blank"></a>
-  <a href="https://matheuspivato.com" target="_blank"><img src="https://img.shields.io/badge/-Site-141321" target="_blank"></a>
+  <a href="mailto:contato@matheuspivato.com" target="_blank"><img src="https://img.shields.io/badge/Email-171717?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/matheuspivato/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://codepen.io/MTSPivato" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a>
+  <a href="https://matheuspivato.com" target="_blank"><img src="https://img.shields.io/badge/Site-171717?style=for-the-badge&logo=exercism&logoColor=white" target="_blank"></a>
  
   ![Snake animation](https://github.com/mtspivato/mtspivato/blob/output/github-contribution-grid-snake.svg)
  
