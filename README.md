@@ -3,9 +3,9 @@ Eu sou Matheus Pivato, um desenvolvedor de software com experiência em diversas
 
 * Meu conhecimento inclui as linguagens de marcação HTML e CSS, juntamente com o framework Bootstrap para desenvolvimento web responsivo.
 
-* Também tenho experiência em desenvolvimento de aplicativos móveis com Flutter e Dart, além da linguagem de script Lua.
-
 * Na área de desenvolvimento web, possuo experiência em JavaScript, Node.js, ReactJS e React Native. Já em relação à programação backend, tenho conhecimentos em Python e nos bancos de dados MySQL, PostgreSQL e MongoDB.
+
+* Também tenho experiência em desenvolvimento de aplicativos móveis com Flutter e Dart, além da linguagem de script Lua.
 
 Aqui no meu perfil do GitHub, você encontrará alguns dos meus projetos e códigos de exemplo, que refletem minha paixão por desenvolvimento de software.
 
@@ -30,10 +30,10 @@ Aqui estão algumas das linguagens e tecnologias que eu uso no meu dia-a-dia:
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
   <br>
   <br>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
   <br>
   <br>
