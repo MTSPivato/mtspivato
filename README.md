@@ -4,7 +4,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtspivato&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-## Algumas tecnologias que já trabalhei
+##
 
 <div align="center">
   <br>
@@ -29,7 +29,7 @@
   
  </div>
   
-  ## links para contato
+  ##
   
 <div align="center">
   <a href="mailto:contato@matheuspivato.com" target="_blank"><img src="https://img.shields.io/badge/Email-171717?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
