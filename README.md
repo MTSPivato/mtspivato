@@ -18,7 +18,6 @@ Aqui no meu perfil do GitHub, você encontrará alguns dos meus projetos e códi
 </div>
   
 ## Tecnologias
-Aqui estão algumas das linguagens e tecnologias que eu uso no meu dia-a-dia:
 
 <div align="center">
   <br>
@@ -43,7 +42,6 @@ Aqui estão algumas das linguagens e tecnologias que eu uso no meu dia-a-dia:
  </div>
   
 ## Contato
-Se você quiser entrar em contato comigo, pode usar os seguintes links:
   
 <div align="center">
   <a href="mailto:contato@matheuspivato.com" target="_blank"><img src="https://img.shields.io/badge/Email-171717?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
