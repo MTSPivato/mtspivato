@@ -1,10 +1,24 @@
+## Olá! 👋🏼
+Eu sou Matheus Pivato, um desenvolvedor de software com experiência em diversas áreas da programação. 
+
+* Meu conhecimento inclui as linguagens de marcação HTML e CSS, juntamente com o framework Bootstrap para desenvolvimento web responsivo.
+
+* Também tenho experiência em desenvolvimento de aplicativos móveis com Flutter e Dart, além da linguagem de script Lua.
+
+* Na área de desenvolvimento web, possuo experiência em JavaScript, Node.js, ReactJS e React Native. Já em relação à programação backend, tenho conhecimentos em Python e nos bancos de dados MySQL, PostgreSQL e MongoDB.
+
+Aqui no meu perfil do GitHub, você encontrará alguns dos meus projetos e códigos de exemplo, que refletem minha paixão por desenvolvimento de software.
+
+## Estatísticas do GitHub
+
 <div align="center">
   <a href="https://github.com/mtspivato">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mtspivato&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtspivato&layout=compact&langs_count=7&theme=radical"/>
 </div>
-
-##
+  
+## Tecnologias
+Aqui estão algumas das linguagens e tecnologias que eu uso no meu dia-a-dia:
 
 <div align="center">
   <br>
@@ -26,10 +40,10 @@
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-  
  </div>
   
-  ##
+## Contato
+Se você quiser entrar em contato comigo, pode usar os seguintes links:
   
 <div align="center">
   <a href="mailto:contato@matheuspivato.com" target="_blank"><img src="https://img.shields.io/badge/Email-171717?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
