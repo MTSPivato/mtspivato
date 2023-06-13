@@ -1,4 +1,4 @@
-## Olá! 👋🏼
+## Olá! 👋🏻
 Eu sou Matheus Pivato, um desenvolvedor de software com experiência em diversas áreas da programação. 
 
 * Meu conhecimento inclui as linguagens de marcação HTML e CSS, juntamente com o framework Bootstrap para desenvolvimento web responsivo.
